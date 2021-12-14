@@ -1,0 +1,11 @@
+{
+    "python.linting.pycodestyleArgs": [
+        "--max-line-length=200"
+    ],
+    "python.pythonPath": "C:\\Python\\python.exe",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestylePath": "C:\\Python\\Scripts\\pycodestyle.exe",
+    "python.linting.pylintEnabled": false,
+    "python.languageServer": "Pylance"
+}
